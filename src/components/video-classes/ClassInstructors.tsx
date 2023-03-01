@@ -14,6 +14,8 @@ import {
   vidith,
   blank,
   trisha,
+  faris,
+  andrew,
 } from "../index/images"
 
 type Member = {
@@ -34,54 +36,24 @@ const members: Member[] = [
     title: "Bronze Lead Instructor",
   },
   {
-    photo: ian,
-    name: "Ian Zhang",
-    title: "Silver Instructor",
-  },
-  {
-    photo: frank,
-    name: "Frank Xiao",
-    title: "Bronze Instructor",
-  },
-  // {
-  //   photo: vidith,
-  //   name: "Vidith Madhu",
-  //   title: "Instructor",
-  // },
-  {
-    photo: jesse,
-    name: "Jesse Choe",
-    title: "Silver Instructor",
-  },
-  {
-    photo: nikhil,
-    name: "Nikhil Chatterjee",
-    title: "Silver + Bronze Instructor",
-  },
-  {
     photo: ryan,
     name: "Ryan Chou",
     title: "Bronze Instructor",
   },
   {
-    photo: julie,
-    name: "Juheon Rhee",
-    title: "Silver Instructor",
+    photo: frank,
+    name: "Frank Xiao",
+    title: "Bronze & Silver Instructor",
   },
-  {
-    photo: arnan,
-    name: "Arnan Bawa",
-    title: "Silver + Bronze Instructor",
-  },
-  // {
-  //   photo: davidz,
-  //   name: "David Zhang",
-  //   title: "Instructor",
-  // },
   {
     photo: trisha,
     name: "Trisha Sabadra",
-    title: "Bronze Instructor",
+    title: "Silver Instructor",
+  },
+  {
+    photo: faris,
+    name: "Faris Raza",
+    title: "Bronze & Silver Instructor",
   },
 ]
 
